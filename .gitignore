@@ -1,0 +1,9 @@
+# Sublime Text project files
+itookapicture-ImageSaver.sublime-project
+itookapicture-ImageSaver.sublime-workspace
+
+# Temporary directory
+tmp
+
+# Config files (store username/password)
+config.txt
