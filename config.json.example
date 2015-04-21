@@ -1,0 +1,12 @@
+{
+  "reddit": {
+    "username": "ITAP-BotImgSaver",
+    "password": "itapbotsaver103856praw"
+  },
+  "db_info": {
+    "user": "root",
+    "pass": "5486897",
+    "db": "ITAP"
+  },
+  "save_path": "/home/mihai/Pictures/ITAP"
+}
